@@ -8,14 +8,14 @@ I built a multilingual customer-support triage assistant for Mumzworld that take
 
 This GitHub repository contains a runnable CLI prototype:
 
-GitHub repo link: `<PASTE_YOUR_REPO_LINK_HERE>`
+GitHub repo link: `<https://github.com/priyanshu30405/ai-native-intern>`
 
 - Install: `pip install -r requirements.txt`
 - Run: `python app.py --text "<your message>"`
 
 ## 3-minute walkthrough Loom
 
-Loom walkthrough: `<PASTE_YOUR_LOOM_LINK_HERE>`
+Loom walkthrough: `<https://www.loom.com/share/b02864cf85ff4fd091ccdc54bcdd2de9>`
 
 ## Markdown deliverables
 
@@ -103,23 +103,6 @@ The script reports:
 - Local harness: Python CLI + Pydantic validation
 - Fallback path: deterministic rule-based triage
 - AI assistant use: code scaffolding, prompt iteration, and documentation drafting
-
-## Submission checklist (Track A)
-
-- GitHub repo link with runnable code
-- 3-minute Loom video link
-- `README.md` with setup + architecture overview
-- `EVALS.md` with rubric, test set, and results
-- `TRADEOFFS.md` with choices, rejected paths, and what was cut
-- Short tooling note in README (already included)
-
-## What to record in Loom (3 min)
-
-1. Show one English case end-to-end.
-2. Show one Arabic case end-to-end.
-3. Show one ambiguous case where uncertainty is explicit.
-4. Run eval script and highlight scores.
-5. Point to schema validation and escalation behavior.
 
 ## Commands for the demo
 
