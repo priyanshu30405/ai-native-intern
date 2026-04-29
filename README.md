@@ -15,7 +15,7 @@ GitHub repo link: `<https://github.com/priyanshu30405/ai-native-intern>`
 
 ## 3-minute walkthrough Loom
 
-Loom walkthrough: `<https://www.loom.com/share/b02864cf85ff4fd091ccdc54bcdd2de9>`
+Loom walkthrough: `https://www.loom.com/share/b02864cf85ff4fd091ccdc54bcdd2de9`
 
 ## Markdown deliverables
 
