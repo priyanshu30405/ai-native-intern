@@ -1,0 +1,62 @@
+[
+  {
+    "id": "en_refund_simple",
+    "input": "Hi, I want a refund for order MW-1032. The stroller arrived damaged.",
+    "expected_intent": "refund"
+  },
+  {
+    "id": "ar_exchange_size",
+    "input": "مرحبا، أحتاج استبدال مقاس الحذاء في طلبي MW-5521.",
+    "expected_intent": "exchange"
+  },
+  {
+    "id": "en_delivery_delay",
+    "input": "My order MW-8871 is delayed for 5 days and not received yet.",
+    "expected_intent": "delivery_issue"
+  },
+  {
+    "id": "ar_cancel_request",
+    "input": "أريد إلغاء الطلب MW-9002 فوراً.",
+    "expected_intent": "cancel"
+  },
+  {
+    "id": "mixed_product_question",
+    "input": "Is this baby lotion suitable for newborns? هل مناسب لحديثي الولادة؟",
+    "expected_intent": "product_question"
+  },
+  {
+    "id": "en_order_change_address",
+    "input": "Please change address for order MW-4100 before shipping.",
+    "expected_intent": "order_change"
+  },
+  {
+    "id": "ar_delivery_urgent",
+    "input": "طلبي لم يصل و الموضوع ضروري اليوم لطفلي.",
+    "expected_intent": "delivery_issue"
+  },
+  {
+    "id": "en_ambiguous",
+    "input": "This is not what I expected.",
+    "expected_intent": "other"
+  },
+  {
+    "id": "ar_refund_no_order_id",
+    "input": "أريد استرجاع المبلغ لأن المنتج تالف.",
+    "expected_intent": "refund"
+  },
+  {
+    "id": "en_exchange_urgent",
+    "input": "Need to replace this item ASAP, wrong size.",
+    "expected_intent": "exchange"
+  },
+  {
+    "id": "en_cancel_polite",
+    "input": "Can you cancel my order please?",
+    "expected_intent": "cancel"
+  },
+  {
+    "id": "ar_other_generic",
+    "input": "شكراً لكم على الدعم.",
+    "expected_intent": "other"
+  }
+]
